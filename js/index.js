@@ -189,6 +189,69 @@
 //     break;
 //   default:
 // }
- 
 
 // whilega doir masalarga vaqt yetmay qoldi iloji boricha tezroq bajarib push qilishga harakat qlaman ...
+
+// 1-masala
+// let i = 1;
+// while (i <= 10) {
+//   console.log(i);
+//   i++;
+// }
+
+// 2 - masala;
+// let i = 10;
+// while (i >= 1) {
+//   console.log(i);
+//   i--;
+// }
+
+// 3 - masala;
+// let num = -7;
+// while (num <= 0) {
+//   num = +prompt("musbat son kirting:");
+// }
+// console.log(num);
+
+// 4 - masala;
+// let num = 2;
+// while (num <= 20) {
+//  console.log(num);
+//  num += 2;
+// }
+
+// 5 - massla
+// I did not this
+
+// 6-masala
+// tushunmadim shuni
+
+// 7-masala
+// let num = prompt("soni kiritin");
+// let index = 0;
+
+// while (index < num.length) {
+//   let num = Number(num[index]);
+//   if (num % 2 !== 0) {
+//     console.log(num);
+//   }
+//   index++;
+// }
+
+// 8-masala
+// let start = +prompt("1-snni kiritig");
+// let and = +prompt("2-sonni kiring");
+
+// while (strat <= and) {
+//   if (start % 3 == 0) console.log(start);
+//   start++;
+// }
+
+//  9-masala
+// qilalmadm shuni
+
+// 10-masala]
+// tushunmadim
+
+// 11-masala
+// niyam qilalmadim
